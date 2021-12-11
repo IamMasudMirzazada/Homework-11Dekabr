@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\9.12 (2)\practise\practise\bin\Debug\netcoreapp3.1\practise.exe
+C:\Users\HP\Desktop\9.12 (2)\practise\practise\bin\Debug\netcoreapp3.1\practise.deps.json
+C:\Users\HP\Desktop\9.12 (2)\practise\practise\bin\Debug\netcoreapp3.1\practise.runtimeconfig.json
+C:\Users\HP\Desktop\9.12 (2)\practise\practise\bin\Debug\netcoreapp3.1\practise.runtimeconfig.dev.json
+C:\Users\HP\Desktop\9.12 (2)\practise\practise\bin\Debug\netcoreapp3.1\practise.dll
+C:\Users\HP\Desktop\9.12 (2)\practise\practise\bin\Debug\netcoreapp3.1\practise.pdb
+C:\Users\HP\Desktop\9.12 (2)\practise\practise\obj\Debug\netcoreapp3.1\practise.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\9.12 (2)\practise\practise\obj\Debug\netcoreapp3.1\practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\9.12 (2)\practise\practise\obj\Debug\netcoreapp3.1\practise.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\9.12 (2)\practise\practise\obj\Debug\netcoreapp3.1\practise.AssemblyInfo.cs
+C:\Users\HP\Desktop\9.12 (2)\practise\practise\obj\Debug\netcoreapp3.1\practise.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\9.12 (2)\practise\practise\obj\Debug\netcoreapp3.1\practise.dll
+C:\Users\HP\Desktop\9.12 (2)\practise\practise\obj\Debug\netcoreapp3.1\practise.pdb
+C:\Users\HP\Desktop\9.12 (2)\practise\practise\obj\Debug\netcoreapp3.1\practise.genruntimeconfig.cache

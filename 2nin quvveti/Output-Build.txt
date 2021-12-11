@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: 2quvveti, Configuration: Debug Any CPU ------
+1>2quvveti -> C:\Users\HP\Desktop\2nin quvveti\2quvveti\2quvveti\bin\Debug\netcoreapp3.1\2quvveti.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

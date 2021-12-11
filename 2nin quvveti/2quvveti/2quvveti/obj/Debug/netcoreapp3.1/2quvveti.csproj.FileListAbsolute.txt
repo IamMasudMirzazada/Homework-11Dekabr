@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\2nin quvveti\2quvveti\2quvveti\bin\Debug\netcoreapp3.1\2quvveti.exe
+C:\Users\HP\Desktop\2nin quvveti\2quvveti\2quvveti\bin\Debug\netcoreapp3.1\2quvveti.deps.json
+C:\Users\HP\Desktop\2nin quvveti\2quvveti\2quvveti\bin\Debug\netcoreapp3.1\2quvveti.runtimeconfig.json
+C:\Users\HP\Desktop\2nin quvveti\2quvveti\2quvveti\bin\Debug\netcoreapp3.1\2quvveti.runtimeconfig.dev.json
+C:\Users\HP\Desktop\2nin quvveti\2quvveti\2quvveti\bin\Debug\netcoreapp3.1\2quvveti.dll
+C:\Users\HP\Desktop\2nin quvveti\2quvveti\2quvveti\bin\Debug\netcoreapp3.1\2quvveti.pdb
+C:\Users\HP\Desktop\2nin quvveti\2quvveti\2quvveti\obj\Debug\netcoreapp3.1\2quvveti.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\2nin quvveti\2quvveti\2quvveti\obj\Debug\netcoreapp3.1\2quvveti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\2nin quvveti\2quvveti\2quvveti\obj\Debug\netcoreapp3.1\2quvveti.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\2nin quvveti\2quvveti\2quvveti\obj\Debug\netcoreapp3.1\2quvveti.AssemblyInfo.cs
+C:\Users\HP\Desktop\2nin quvveti\2quvveti\2quvveti\obj\Debug\netcoreapp3.1\2quvveti.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\2nin quvveti\2quvveti\2quvveti\obj\Debug\netcoreapp3.1\2quvveti.dll
+C:\Users\HP\Desktop\2nin quvveti\2quvveti\2quvveti\obj\Debug\netcoreapp3.1\2quvveti.pdb
+C:\Users\HP\Desktop\2nin quvveti\2quvveti\2quvveti\obj\Debug\netcoreapp3.1\2quvveti.genruntimeconfig.cache
